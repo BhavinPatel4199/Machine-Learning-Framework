@@ -13,10 +13,10 @@ This project focuses on classifying iris flowers into three species—Setosa, Ve
 - **Target Variable**: Iris Species (Setosa, Versicolor, Virginica)
 
 ## **Project Structure**
-- **`Project-1_200584974_Bhavin_Patel.ipynb`**: Jupyter Notebook containing all code from data loading to model evaluation.
-- **`Project-1_200584974_Bhavin_Patel.pdf`**: PDF report summarizing the entire project with visualizations and detailed analysis.
+- **`jupyter_notebook_code_file.ipynb`**: Jupyter Notebook containing all code from data loading to model evaluation.
+- **`coed_pdf_file.pdf`**: PDF report summarizing the entire project with visualizations and detailed analysis.
 - **`README.md`**: This markdown file provides an overview of the project, setup instructions, and key findings.
-- **`Iris.csv`**: The dataset used in this project.
+- **`iris.xlsx`**: The dataset used in this project.
 
 ## **Data Preprocessing**
 - **Data Cleaning**: The dataset is clean with no missing values.
