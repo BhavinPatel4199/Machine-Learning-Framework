@@ -4,7 +4,8 @@
 This project aims to describe the variation in different types of customers that a wholesale distributor interacts with, based on their annual spending across various product categories. The project involves data cleaning, exploratory data analysis (EDA), feature selection, clustering, and classification using machine learning techniques.
 
 ## Dataset
-The dataset contains the annual spending in monetary units on diverse product categories by clients of a wholesale distributor. The key features include:
+
+The dataset "Wholesale customers data.csv" contains the annual spending in monetary units on diverse product categories by clients of a wholesale distributor. The key features include:
 
 - **Region**: The region where the customer is located.
 - **Channel**: The type of channel (e.g., retail, Horeca).
