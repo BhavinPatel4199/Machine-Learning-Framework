@@ -3,7 +3,8 @@
 ## **Project Overview**
 This project focuses on clustering customers and classifying loan applicants into "Good" or "Bad" credit risk categories. Using a dataset of 1,000 loan applicants, various machine learning techniques are employed to gain insights that can help financial institutions make better lending decisions.
 
-## **Dataset**
+## **Dataset** : "german_credit_data.csv"
+
 - **Source**: Contains data on 1,000 loan applicants.
 - **Features**:
   - Financial information (e.g., income, loan amount)
